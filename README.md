@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='demo.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='demo.gif' title='Video Demo' width='200px' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
