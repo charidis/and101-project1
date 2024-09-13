@@ -1,5 +1,3 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
 # AND101 Project 1 - Hello, Profile!
 
 Submitted by: **Charidi Stevens**
@@ -29,16 +27,8 @@ The following EXTRA features are implemented:
 
 ## Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:
-
+Here's a videoGIF that demos all of the app's implemented features:
 <img src='demo.gif' title='Video Demo' width='200px' alt='Video Demo' />
-
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
