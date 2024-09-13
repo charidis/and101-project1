@@ -28,6 +28,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a videoGIF that demos all of the app's implemented features:
+
 <img src='demo.gif' title='Video Demo' width='200px' alt='Video Demo' />
 
 ## Notes
